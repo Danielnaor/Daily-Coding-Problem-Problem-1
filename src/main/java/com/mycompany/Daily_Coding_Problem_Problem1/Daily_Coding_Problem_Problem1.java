@@ -7,7 +7,7 @@ package com.mycompany.Daily_Coding_Problem_Problem1;
 
 /**
  *
- * @author carmitnaor
+ * @author Danielnaor
  */
 import java.util.Scanner;
 import java.util.Arrays;
